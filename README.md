@@ -40,6 +40,6 @@ Apply machine learning to solve a real-world challenge: credit card risk. Credit
 
 **Summary**
 
-Easy Ensemble AdaBoost Classifier is the most effective ML model providing the best f1 score which balances accuracy and precision to consider the score. Precision is found to be low for all the models.
+EasyEnsembleClassifier is the most effective. It Provides the highest Score for all Risk loans. In General, above the 90% of the current analysis, utlizing EasyEnsembleClassifier will perform a High-Risk loan precision as a great value for the overall analysis.
 
-Recommendation would be to use the Easy Ensemble AdaBoost Classifier as it classified the most true positives.
+Recommendation would be to use the Easy Ensemble Classifier as it classified the most true positives.
